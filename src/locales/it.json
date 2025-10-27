@@ -1,0 +1,440 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Servizi",
+    "howItWorks": "Come Funziona",
+    "forPlumbers": "Per Idraulici",
+    "faq": "FAQ"
+  },
+  "auth": {
+    "login": "Accedi",
+    "signup": "Registrati",
+    "loginTitle": "Login Mock",
+    "loginDescription": "Seleziona un utente per simulare l'accesso.",
+    "selectUser": "Seleziona un utente",
+    "loadingUsers": "Caricamento utenti...",
+    "noAccount": "Non hai un account?",
+    "signupTitle": "Registrati",
+    "signupDescription": "Crea il tuo account Plumbit.",
+    "fullName": "Nome Completo",
+    "email": "Email",
+    "password": "Password",
+    "iAmA": "Sono un...",
+    "customer": "Cliente",
+    "plumber": "Idraulico",
+    "createAccount": "Crea Account",
+    "haveAccount": "Hai gi�� un account?"
+  },
+  "hero": {
+    "title": "Trova un idraulico certificato <br/> <1>vicino a te in pochi minuti.</1>",
+    "subtitle": "Su richiesta o programmato. Richieste di lavoro trasparenti. Paga direttamente al tuo idraulico.",
+    "cta_request": "Richiedi un Idraulico Ora",
+    "cta_partner": "Diventa un Partner"
+  },
+  "lang": {
+    "language": "Lingua",
+    "italian": "Italiano",
+    "english": "Inglese"
+  },
+  "services": {
+    "title": "I Nostri Servizi",
+    "description": "Ti mettiamo in contatto con idraulici certificati per qualsiasi lavoro, grande o piccolo.",
+    "leakRepairs": { "title": "Riparazioni Perdite", "description": "Da rubinetti che gocciolano a tubi scoppiati, i nostri idraulici possono trovare e riparare perdite rapidamente per prevenire danni." },
+    "blockedDrains": { "title": "Scarichi Ostruiti", "description": "Lavatelli della cucina, bagni o linee fognarie principali: abbiamo gli strumenti e l'esperienza per eliminare qualsiasi ostruzione." },
+    "boilersHeating": { "title": "Caldaie e Riscaldamento", "description": "Installazione, riparazione e manutenzione per tutti i tipi di caldaie per mantenere la tua casa calda e l'acqua calda." },
+    "fixtureInstallation": { "title": "Installazione Sanitari", "description": "Installazione professionale di nuovi WC, lavandini, docce, lavastoviglie e altri sanitari." },
+    "emergencies": { "title": "Emergenze 24/7", "description": "I disastri idraulici non aspettano gli orari di ufficio. Offriamo servizi di emergenza 24 ore su 24 per problemi urgenti." },
+    "pricingNote": { "title": "Nota sui Prezzi Trasparenti", "description": "Gli idraulici sulla nostra piattaforma stabiliscono le proprie tariffe. Un costo di chiamata tipico parte da 50€ più trasferta, ma pu�� variare. Il costo finale sar�� concordato con il tuo idraulico e il pagamento viene gestito direttamente con lui. Plumbit non elabora pagamenti né prende commissioni sui lavori." }
+  },
+  "howItWorks": {
+    "title": "Come Funziona Plumbit",
+    "description": "Un processo semplice e trasparente per tutti.",
+    "forCustomers": "Per i Clienti",
+    "forPlumbers": "Per gli Idraulici",
+    "customerSteps": {
+      "step1": { "title": "1. Crea una Richiesta di Lavoro", "description": "Registrati e dicci di cosa hai bisogno. Descrivi il problema, carica foto e scegli se è un'emergenza o un lavoro programmato. È gratuito e richiede solo pochi minuti." },
+      "step2": { "title": "2. Trova un Professionista", "description": "Notifichiamo istantaneamente gli idraulici certificati e disponibili nella tua zona. Il primo professionista disponibile accetterà il tuo lavoro e riceverai i suoi dettagli e l'orario di arrivo previsto." },
+      "step3": { "title": "3. Traccia il Tuo Idraulico", "description": "Segui lo stato del tuo idraulico in tempo reale da 'In Arrivo' a 'Sul Posto'. Puoi contattarlo direttamente tramite l'app se necessario." },
+      "step4": { "title": "4. Paga Direttamente e Recensisci", "description": "Una volta terminato il lavoro, paghi direttamente l'idraulico, senza commissioni di piattaforma. Successivamente, lascia una recensione per aiutare altri clienti." }
+    },
+    "plumberSteps": {
+      "step1": { "title": "1. Crea il Tuo Profilo", "description": "Registrati e crea il tuo profilo professionale. Imposta la tua area di servizio, la disponibilità e le tariffe di base (per informazione del cliente)." },
+      "step2": { "title": "2. Visualizza i Lavori Disponibili", "description": "Ricevi notifiche per nuove richieste di lavoro vicino a te che corrispondono ai tuoi servizi. Visualizza i dettagli del lavoro, le descrizioni e le foto prima di accettare." },
+      "step3": { "title": "3. Accetta e Gestisci i Lavori", "description": "Accetta i lavori che si adattano al tuo programma con un solo tocco. Aggiorna il tuo stato mentre ti rechi sul posto e completi il lavoro, tenendo informato il cliente." },
+      "step4": { "title": "4. Ricevi il Pagamento Direttamente", "description": "Dopo aver completato il lavoro, riscuoti il pagamento direttamente dal cliente. Tutti i tuoi guadagni sono tuoi, non prendiamo alcuna commissione." }
+    }
+  },
+  "forPlumbers": {
+    "heroTitle": "Più Lavori. Alle Tue Condizioni.",
+    "heroSubtitle": "Unisciti a Plumbit per connetterti con più clienti, gestire il tuo programma e far crescere la tua attività—gratuitamente.",
+    "cta": "Inizia a Guadagnare Oggi",
+    "whyPartner": "Perché Collaborare con Plumbit?",
+    "whySubtitle": "Siamo costruiti per aiutarti ad avere successo.",
+    "benefits": {
+      "localJobs": { "title": "Più Lavori Locali", "description": "Accedi a un flusso costante di richieste di lavoro da clienti nella tua area di servizio. Meno tempo a cercare, più tempo a lavorare." },
+      "flexibleSchedule": { "title": "Programma Flessibile", "description": "Hai il controllo. Imposta la tua disponibilità e accetta solo i lavori che si adattano al tuo programma e alla tua esperienza." },
+      "keepEarnings": { "title": "Tieni il 100% dei Tuoi Guadagni", "description": "Ti mettiamo in contatto con i clienti, ma vieni pagato direttamente. Nessuna commissione, nessuna tariffa di piattaforma. Ciò che guadagni è ciò che tieni." },
+      "simpleManagement": { "title": "Gestione Semplice dei Lavori", "description": "La nostra app facile da usare ti permette di visualizzare i dettagli del lavoro, accettare richieste e aggiornare il tuo stato con pochi tocchi." }
+    }
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "description": "Trova le risposte alle domande più comuni qui sotto.",
+    "forCustomers": "Per i Clienti",
+    "forPlumbers": "Per gli Idraulici",
+    "customerQuestions": {
+      "q1": { "question": "Quanto costa usare Plumbit?", "answer": "Usare la piattaforma Plumbit per trovare e richiedere un idraulico è completamente gratuito per i clienti. Paghi solo l'idraulico per i servizi che fornisce." },
+      "q2": { "question": "Come pago l'idraulico?", "answer": "Il pagamento viene gestito direttamente tra te e l'idraulico. Puoi pagare in contanti, con bonifico bancario o qualsiasi altro metodo concordato. Plumbit non elabora alcun pagamento." },
+      "q3": { "question": "Gli idraulici sono certificati?", "answer": "Sì, verifichiamo le certificazioni e le credenziali di tutti gli idraulici prima che possano unirsi alla nostra piattaforma per garantire che tu stia assumendo un professionista qualificato." },
+      "q4": { "question": "Cosa faccio in caso di emergenza?", "answer": "Quando crei una richiesta di lavoro, puoi contrassegnarla come emergenza. Questo dà priorità alla tua richiesta e la invia agli idraulici disponibili per un intervento immediato." }
+    },
+    "plumberQuestions": {
+      "q1": { "question": "C'è una tariffa per iscriversi a Plumbit?", "answer": "No, è completamente gratuito per gli idraulici registrarsi, creare un profilo e ricevere richieste di lavoro. Non addebitiamo costi di abbonamento o commissioni." },
+      "q2": { "question": "Come vengo pagato?", "answer": "Riscuoti il pagamento direttamente dal cliente al termine del lavoro. Tieni il 100% di ciò che addebiti per i tuoi servizi." },
+      "q3": { "question": "Posso impostare la mia area di servizio e il mio programma?", "answer": "Assolutamente. Nel tuo profilo, definisci il tuo raggio di servizio e imposti la tua disponibilità. Riceverai solo richieste di lavoro che corrispondono ai tuoi criteri." },
+      "q4": { "question": "Come vengono assegnati i lavori?", "answer": "Le richieste di lavoro vengono inviate a tutti gli idraulici disponibili nell'area del cliente. Il primo idraulico che accetta il lavoro lo ottiene. Questo garantisce una risposta rapida per il cliente e un sistema equo per i nostri partner." }
+    }
+  },
+  "customerDashboard": {
+    "title": "I Miei Lavori",
+    "description": "Traccia le tue richieste di lavoro attive e passate.",
+    "newJob": "Richiedi Nuovo Lavoro",
+    "activeJobs": "Lavori Attivi",
+    "pastJobs": "Lavori Passati",
+    "noJobs": "Nessun lavoro in questa categoria.",
+    "noJobsYet": { "title": "Ancora nessun lavoro", "description": "Inizia richiedendo il tuo primo lavoro." }
+  },
+  "requestJob": {
+    "title": "Richiedi un Nuovo Lavoro",
+    "description": "Compila i dettagli qui sotto per trovare un idraulico.",
+    "jobDetails": "Dettagli del Lavoro",
+    "detailsDescription": "Più dettagli fornisci, più velocemente possiamo aiutarti.",
+    "address": "Indirizzo",
+    "addressPlaceholder": "es. Via Dante 10, 20121 Milano MI, Italia",
+    "issueDescription": "Descrizione del Problema",
+    "issuePlaceholder": "es. Il mio lavello della cucina è completamente bloccato...",
+    "preferredTime": "Orario Preferito",
+    "findPlumber": "Trova un Idraulico",
+    "submitting": "Invio in corso..."
+  },
+  "publicRequestForm": {
+    "title": "Richiedi un Idraulico Ora",
+    "description": "Compila il modulo per ottenere una risposta rapida. Stiamo attualmente convalidando questo servizio a Milano.",
+    "nameLabel": "Il Tuo Nome",
+    "namePlaceholder": "es., Mario Rossi",
+    "contactLabel": "Email o Telefono",
+    "contactPlaceholder": "es., mario@example.com",
+    "addressLabel": "Indirizzo",
+    "addressPlaceholder": "es., Via Dante 10, 20121 Milano MI",
+    "issueLabel": "Descrivi il Problema",
+    "issuePlaceholder": "es., Il mio lavello della cucina è bloccato...",
+    "submitButton": "Richiedi un Idraulico Ora",
+    "submittingButton": "Invio in corso..."
+  },
+  "about": {
+    "heroTitle": "Costruire un Modo Migliore per Trovare un Idraulico",
+    "heroSubtitle": "Plumbit è nato da un'idea semplice: trovare un idraulico affidabile non dovrebbe essere un'emergenza stressante. Usiamo la tecnologia per portare trasparenza, velocità e fiducia nel settore dei servizi per la casa.",
+    "storyTitle": "La Nostra Storia",
+    "storyP1": "È iniziato con un incubo familiare per ogni proprietario di casa: un tubo rotto durante il fine settimana e una ricerca frenetica attraverso elenchi online obsoleti. Il processo era inefficiente, stressante e privo di trasparenza. Sapevamo che doveva esserci un modo migliore.",
+    "storyP2": "Abbiamo immaginato una piattaforma che potesse connettere le persone con idraulici certificati e disponibili in pochi minuti, proprio come ordinare un taxi o un pasto. Plumbit è il risultato di quella visione: uno strumento semplice e potente progettato per risolvere problemi reali sia per i proprietari di casa che per i professionisti del settore.",
+    "missionTitle": "La Nostra Missione",
+    "missionP1": "La nostra missione è creare il mercato più affidabile ed efficiente per i servizi per la casa. Stiamo iniziando con l'idraulica perché è un servizio essenziale dove velocità e affidabilità sono fondamentali.",
+    "missionP2": "Ai nostri clienti, promettiamo un modo rapido, trasparente e sicuro per trovare aiuto. Ai nostri partner idraulici, offriamo una piattaforma gratuita e flessibile per trovare più lavori e far crescere la loro attività alle loro condizioni. Non prendiamo commissioni, siamo qui per creare la connessione.",
+    "valuesTitle": "I Nostri Valori Fondamentali",
+    "valuesSubtitle": "Questi principi guidano ogni decisione che prendiamo mentre costruiamo Plumbit.",
+    "value1Title": "Fiducia e Sicurezza",
+    "value1Desc": "Verifichiamo ogni idraulico sulla nostra piattaforma per garantire che sia certificato, assicurato e recensito dalla comunità. La tua tranquillità è la nostra massima priorità.",
+    "value2Title": "Semplicità e Trasparenza",
+    "value2Desc": "Crediamo che trovare un idraulico debba essere facile. La nostra piattaforma offre richieste di lavoro chiare, tracciamento in tempo reale e comunicazione diretta, eliminando le solite seccature.",
+    "value3Title": "Potenziare le Comunità",
+    "value3Desc": "Connettendo i proprietari di casa locali con professionisti qualificati locali, aiutiamo a rafforzare i legami comunitari e a sostenere le piccole imprese."
+  },
+  "contact": {
+    "title": "Contattaci",
+    "description": "Siamo qui per aiutarti. Contattaci per qualsiasi domanda.",
+    "emailTitle": "Email",
+    "emailDesc": "Per richieste generali e supporto.",
+    "phoneTitle": "Telefono",
+    "phoneDesc": "Il nostro team di supporto è disponibile durante l'orario di lavoro.",
+    "hoursTitle": "Orario di Lavoro",
+    "hoursP1": "Lunedì - Venerdì: 9:00 - 18:00",
+    "hoursP2": "Sabato - Domenica: Chiuso",
+    "formName": "Nome Completo",
+    "formNamePlaceholder": "Il Tuo Nome",
+    "formEmail": "Indirizzo Email",
+    "formEmailPlaceholder": "tu@example.com",
+    "formMessage": "Messaggio",
+    "formMessagePlaceholder": "Come possiamo aiutarti?",
+    "formSubmit": "Invia Messaggio"
+  },
+  "jobDetail": {
+    "title": "Lavoro #{{jobId}}",
+    "requestedOn": "Richiesto il {{date}}",
+    "jobDetails": "Dettagli Lavoro",
+    "address": "Indirizzo",
+    "description": "Descrizione",
+    "scheduledFor": "Programmato per",
+    "timeline": "Cronologia Lavoro",
+    "plumberStatus": "Stato Idraulico",
+    "matching": "Ti stiamo abbinando a un idraulico certificato.",
+    "assignedPlumber": "Idraulico Assegnato",
+    "rating": "Valutazione",
+    "reviews": "recensioni",
+    "leaveReview": "Lascia una Recensione",
+    "yourReview": "La Tua Recensione",
+    "feedbackThanks": "Grazie per il tuo feedback!",
+    "feedbackHelp": "Il tuo feedback aiuta la nostra comunità.",
+    "comment": "Commento",
+    "commentPlaceholder": "Raccontaci la tua esperienza...",
+    "submitReview": "Invia Recensione",
+    "toast": {
+      "unauthorized": "Non sei autorizzato a visualizzare questo lavoro.",
+      "loadFailed": "Impossibile caricare i dettagli del lavoro.",
+      "reviewLoading": "Invio della tua recensione...",
+      "reviewSuccess": "Grazie per il tuo feedback!",
+      "reviewError": "Impossibile inviare la recensione."
+    }
+  },
+  "plumberDashboard": {
+    "title": "Dashboard Lavori",
+    "description": "Visualizza i lavori disponibili e gestisci i tuoi lavori accettati.",
+    "availableJobs": "Lavori Disponibili",
+    "myActiveJobs": "I Miei Lavori Attivi",
+    "noJobs": "Nessun lavoro in questa categoria.",
+    "viewDetails": "Vedi Dettagli",
+    "accept": "Accetta",
+    "toast": {
+      "loadFailed": "Impossibile caricare i lavori. Riprova più tardi.",
+      "acceptLoading": "Accettazione lavoro in corso...",
+      "acceptSuccess": "Lavoro accettato con successo!",
+      "acceptError": "Impossibile accettare il lavoro. Potrebbe essere stato già preso."
+    }
+  },
+  "plumberJobDetail": {
+    "scheduledFor": "Programmato per {{date}}",
+    "jobDetails": "Dettagli Lavoro",
+    "address": "Indirizzo",
+    "description": "Descrizione",
+    "customerDetails": "Dettagli Cliente",
+    "acceptJob": "Accetta Lavoro",
+    "updateTo": "Aggiorna a: {{status}}",
+    "confirmUpdateTitle": "Conferma Aggiornamento Stato",
+    "confirmUpdateDesc": "Questo aggiornerà lo stato del lavoro a \"{{status}}\" e notificherà il cliente. Sei sicuro?",
+    "cancel": "Annulla",
+    "confirm": "Conferma",
+    "toast": {
+      "loadFailed": "Impossibile caricare i dettagli del lavoro.",
+      "updateLoading": "Aggiornamento stato in corso...",
+      "updateSuccess": "Stato del lavoro aggiornato a {{status}}.",
+      "updateError": "Impossibile aggiornare lo stato.",
+      "acceptLoading": "Accettazione lavoro in corso...",
+      "acceptSuccess": "Lavoro accettato con successo!",
+      "acceptError": "Impossibile accettare il lavoro. Potrebbe essere stato già preso."
+    }
+  },
+  "plumberEarnings": {
+    "title": "Guadagni Simulati",
+    "description": "Un report dei tuoi lavori completati e dei pagamenti simulati.",
+    "completedJobs": "Lavori Completati",
+    "paymentNote": "I pagamenti vengono gestiti direttamente con il cliente.",
+    "jobId": "ID Lavoro",
+    "completedOn": "Completato il",
+    "payout": "Pagamento Sim.",
+    "noJobs": "Nessun lavoro completato ancora.",
+    "totalEarnings": "Guadagni Totali Simulati",
+    "pocNote": "Questa è una simulazione a scopo PoC.",
+    "toast": {
+      "loadFailed": "Impossibile caricare i dati dei guadagni."
+    }
+  },
+  "plumberProfile": {
+    "title": "Il Mio Profilo",
+    "description": "Gestisci le tue informazioni professionali.",
+    "availability": {
+      "label": "Disponibile per Lavori",
+      "description": "Attiva per ricevere nuove richieste di lavoro."
+    },
+    "bio": {
+      "label": "Bio",
+      "placeholder": "Racconta ai clienti della tua esperienza e competenze."
+    },
+    "radius": {
+      "label": "Raggio di Servizio (km)"
+    },
+    "rate": {
+      "label": "Tariffa Base (€)"
+    },
+    "save": "Salva Modifiche",
+    "saving": "Salvataggio...",
+    "errors": {
+      "profileNotFound": "Impossibile trovare il tuo profilo.",
+      "loadFailed": "Impossibile caricare i dati del profilo.",
+      "cannotUpdate": "Profilo non caricato, impossibile aggiornare."
+    },
+    "toast": {
+      "loading": "Aggiornamento profilo in corso...",
+      "success": "Profilo aggiornato con successo!",
+      "error": "Impossibile aggiornare il profilo."
+    }
+  },
+  "adminDashboard": {
+    "title": "Dashboard Admin",
+    "description": "Una panoramica di alto livello dell'attività della piattaforma.",
+    "totalCustomers": "Clienti Totali",
+    "totalPlumbers": "Idraulici Totali",
+    "activeJobs": "Lavori Attivi",
+    "completedJobs": "Lavori Completati",
+    "moreTools": "Report più dettagliati e strumenti di gestione sono disponibili nella navigazione."
+  },
+  "footer": {
+    "tagline": "Il tuo idraulico di fiducia, on-demand.",
+    "company": "Azienda",
+    "about": "Chi siamo",
+    "contact": "Contatti",
+    "forUsers": "Per gli utenti",
+    "howItWorks": "Come funziona",
+    "services": "Servizi",
+    "faq": "FAQ",
+    "forPlumbers": "Per gli idraulici",
+    "becomePartner": "Diventa partner",
+    "legal": "Legale",
+    "terms": "Termini di servizio",
+    "privacy": "Informativa sulla privacy",
+    "cookies": "Cookie Policy"
+  },
+  "homepage": {
+    "availabilityNote": "Attualmente disponibile a Milano. Prossimamente in altre città d'Italia.",
+    "publicRequestForm": {
+      "title": "Richiedi un idraulico ora",
+      "description": "Compila il modulo per ricevere una risposta rapida. Al momento stiamo validando questo servizio a Milano."
+    },
+    "valueProps": {
+      "prop1": {
+        "title": "Veloce e vicino",
+        "description": "Connettiti con idraulici disponibili nella tua zona in pochi minuti per interventi di emergenza o programmati."
+      },
+      "prop2": {
+        "title": "Richieste di intervento trasparenti",
+        "description": "Descrivi chiaramente il problema, carica foto e ottieni tutte le informazioni necessarie prima che l’intervento inizi."
+      },
+      "prop3": {
+        "title": "Idraulici affidabili",
+        "description": "Tutti gli idraulici sulla nostra piattaforma sono professionisti certificati con recensioni verificate da clienti reali."
+      }
+    },
+    "howItWorks": {
+      "title": "Come funziona",
+      "subtitle": "Risolvi i tuoi problemi idraulici in tre semplici passaggi.",
+      "step1": {
+        "title": "Descrivi il problema",
+        "description": "Compila un modulo con il tuo indirizzo, una descrizione del problema idraulico e, se necessario, aggiungi delle foto. Puoi scegliere tra una richiesta immediata o programmata per un secondo momento."
+      },
+      "step2": {
+        "title": "Un idraulico accetta",
+        "description": "La tua richiesta viene inviata agli idraulici disponibili più vicini. Riceverai una notifica non appena un professionista certificato accetta l’intervento ed è in arrivo."
+      },
+      "step3": {
+        "title": "Paga direttamente offline",
+        "description": "Una volta completato l’intervento in modo soddisfacente, paghi l’idraulico direttamente. Prova il nostro servizio gratuitamente — nessuna commissione sulla piattaforma."
+      }
+    },
+    "testimonials": {
+      "title": "Cosa dicono i nostri clienti",
+      "subtitle": "Testimonianze reali da parte di clienti soddisfatti a Milano.",
+      "testimonial1": "Ho richiesto un idraulico alle 22:00 per una perdita d’acqua d’emergenza e in 30 minuti era già alla mia porta. Servizio incredibile!",
+      "testimonial2": "L’app è davvero facile da usare. Ho descritto il problema, un idraulico ha accettato e ho potuto seguirne l’arrivo. L’idraulico è stato professionale e ha risolto tutto perfettamente.",
+      "testimonial3": "Finalmente un modo moderno per trovare un idraulico affidabile. Trasparente, veloce e con il pagamento diretto davvero comodo. Lo user�� di nuovo!"
+    }
+  },
+  "admin": {
+    "users": {
+      "title": "Gestione Clienti",
+      "description": "Visualizza e gestisci tutti gli account dei clienti.",
+      "columns": {
+        "name": "Nome",
+        "email": "Email",
+        "phone": "Telefono",
+        "role": "Ruolo",
+        "joined": "Iscritto il"
+      },
+      "toast": {
+        "loadFailed": "Impossibile caricare gli utenti."
+      }
+    },
+    "plumbers": {
+      "title": "Gestione Idraulici",
+      "description": "Approva e gestisci gli account degli idraulici.",
+      "columns": {
+        "name": "Nome",
+        "email": "Email",
+        "rating": "Valutazione Media",
+        "status": "Stato",
+        "approve": "Approva"
+      },
+      "status": {
+        "approved": "Approvato",
+        "pending": "In attesa"
+      },
+      "noProfile": "Nessun Profilo",
+      "toast": {
+        "loadFailed": "Impossibile caricare gli idraulici.",
+        "noProfile": "Impossibile aggiornare l'idraulico senza un profilo.",
+        "updateFailed": "Impossibile aggiornare lo stato dell'idraulico."
+      }
+    },
+    "jobs": {
+      "title": "Monitoraggio Lavori",
+      "description": "Visualizza e gestisci tutti i lavori sulla piattaforma.",
+      "columns": {
+        "jobId": "ID Lavoro",
+        "status": "Stato",
+        "customerId": "ID Cliente",
+        "plumberId": "ID Idraulico",
+        "scheduled": "Programmato per",
+        "actions": "Azioni"
+      },
+      "cancelButton": "Annulla",
+      "confirmCancel": "Sei sicuro di voler annullare questo lavoro? Questa azione non può essere annullata.",
+      "toast": {
+        "loadFailed": "Impossibile caricare i lavori.",
+        "cancelSuccess": "Lavoro annullato con successo.",
+        "cancelFailed": "Impossibile annullare il lavoro."
+      }
+    },
+    "reviews": {
+      "title": "Moderazione Recensioni",
+      "description": "Visualizza e gestisci tutte le recensioni dei clienti.",
+      "columns": {
+        "rating": "Valutazione",
+        "comment": "Commento",
+        "authorId": "ID Autore",
+        "plumberId": "ID Idraulico",
+        "date": "Data",
+        "actions": "Azioni"
+      },
+      "deleteButton": "Elimina",
+      "confirmDelete": "Sei sicuro di voler eliminare questa recensione?",
+      "toast": {
+        "loadFailed": "Impossibile caricare le recensioni.",
+        "deleteSuccess": "Recensione eliminata con successo.",
+        "deleteFailed": "Impossibile eliminare la recensione."
+      }
+    },
+    "validation": {
+      "title": "Validazione di Mercato",
+      "description": "Analisi e lead dal modulo di richiesta pubblico.",
+      "pageViews": "Visualizzazioni Pagina Totali",
+      "totalLeads": "Lead Totali",
+      "columns": {
+        "name": "Nome",
+        "contact": "Contatto",
+        "address": "Indirizzo",
+        "description": "Descrizione",
+        "submitted": "Inviato il"
+      },
+      "toast": {
+        "loadFailed": "Impossibile caricare i dati di validazione del mercato."
+      }
+    }
+  }
+}

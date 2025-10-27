@@ -2,29 +2,34 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React + TS</title>
+    <title>Plumbit</title>
+    <meta name="description" content="Plumbit — Your trusted plumber, on-demand in Milan and soon across Italy." />
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/logo.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/logo.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="theme-color" content="#ffffff">
+    <!-- Social Media Preview Meta Tags (Open Graph & Twitter) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Plumbit" />
+    <meta property="og:description" content="Your trusted plumber, on-demand in Milan and soon across Italy." />
+    <meta property="og:url" content="https://<YOUR-CLOUDFLARE-PREVIEW-DOMAIN>/" />
+    <meta property="og:image" content="https://<YOUR-CLOUDFLARE-PREVIEW-DOMAIN>/og/plumbit-share-1200x630.png?v=1" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Plumbit" />
+    <meta name="twitter:description" content="Your trusted plumber, on-demand in Milan and soon across Italy." />
+    <meta name="twitter:image" content="https://<YOUR-CLOUDFLARE-PREVIEW-DOMAIN>/og/plumbit-share-1200x630.png?v=1" />
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/gh/subframe7536/cal-sans@1.0.1/cal-sans.min.css" rel="stylesheet">
   </head>
   <body>
     <div id="root"></div>
-    <script>
-        window.addEventListener('error', (event) => {
-          const isOurAppError = event.filename && event.filename.startsWith(window.location.origin);
-          if (isOurAppError) {
-            navigator.sendBeacon('/api/client-errors', JSON.stringify({
-              message: event.message,
-              url: window.location.href,
-              userAgent: navigator.userAgent,
-              source: event.filename,
-              lineno: event.lineno,
-              colno: event.colno,
-              stack: event.error ? event.error.stack : null,
-              timestamp: new Date().toISOString()
-            }));
-          }
-        }, true);
-    </script>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

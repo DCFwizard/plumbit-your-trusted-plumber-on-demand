@@ -1,0 +1,440 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "howItWorks": "How It Works",
+    "forPlumbers": "For Plumbers",
+    "faq": "FAQ"
+  },
+  "auth": {
+    "login": "Log In",
+    "signup": "Sign Up",
+    "loginTitle": "Mock Login",
+    "loginDescription": "Select a user to simulate logging in.",
+    "selectUser": "Select a user",
+    "loadingUsers": "Loading users...",
+    "noAccount": "Don't have an account?",
+    "signupTitle": "Sign Up",
+    "signupDescription": "Create your Plumbit account.",
+    "fullName": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "iAmA": "I am a...",
+    "customer": "Customer",
+    "plumber": "Plumber",
+    "createAccount": "Create Account",
+    "haveAccount": "Already have an account?"
+  },
+  "hero": {
+    "title": "Find a certified plumber <br/> <1>near you in minutes.</1>",
+    "subtitle": "On-demand or scheduled. Transparent job requests. Pay directly to your plumber.",
+    "cta_request": "Request a Plumber Now",
+    "cta_partner": "Become a Partner"
+  },
+  "lang": {
+    "language": "Language",
+    "italian": "Italian",
+    "english": "English"
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "Connecting you with certified plumbers for any job, big or small.",
+    "leakRepairs": { "title": "Leak Repairs", "description": "From dripping faucets to burst pipes, our plumbers can find and fix leaks quickly to prevent water damage." },
+    "blockedDrains": { "title": "Blocked Drains", "description": "Kitchen sinks, bathrooms, or main sewer lines—we have the tools and expertise to clear any blockage." },
+    "boilersHeating": { "title": "Boilers & Heating", "description": "Installation, repair, and maintenance for all types of boilers to keep your home warm and your water hot." },
+    "fixtureInstallation": { "title": "Fixture Installation", "description": "Professional installation for new toilets, sinks, showers, dishwashers, and other plumbing fixtures." },
+    "emergencies": { "title": "24/7 Emergencies", "description": "Plumbing disasters don't wait for business hours. We offer around-the-clock emergency services for urgent issues." },
+    "pricingNote": { "title": "Transparent Pricing Note", "description": "Plumbers on our platform set their own rates. A typical call-out fee starts from €50 plus travel, but this can vary. The final cost will be agreed upon with your plumber, and payment is handled directly with them. Plumbit does not process payments or take a commission on jobs." }
+  },
+  "howItWorks": {
+    "title": "How Plumbit Works",
+    "description": "A simple, transparent process for everyone.",
+    "forCustomers": "For Customers",
+    "forPlumbers": "For Plumbers",
+    "customerSteps": {
+      "step1": { "title": "1. Create a Job Request", "description": "Sign up and tell us what you need. Describe the issue, upload photos, and choose if it's an emergency or a scheduled job. It's free and takes just a few minutes." },
+      "step2": { "title": "2. Get Matched with a Pro", "description": "We instantly notify available, certified plumbers in your area. The first available pro will accept your job, and you'll get their details and ETA." },
+      "step3": { "title": "3. Track Your Plumber", "description": "Follow your plumber's status in real-time from 'En Route' to 'On Site'. You can contact them directly through the app if needed." },
+      "step4": { "title": "4. Pay Directly & Review", "description": "Once the job is done, you pay the plumber directly—no platform fees. Afterwards, leave a review to help other customers." }
+    },
+    "plumberSteps": {
+      "step1": { "title": "1. Create Your Profile", "description": "Sign up and build your professional profile. Set your service area, availability, and base rates (for customer information)." },
+      "step2": { "title": "2. See Available Jobs", "description": "Get notified about new job requests near you that match your services. View job details, descriptions, and photos before you accept." },
+      "step3": { "title": "3. Accept & Manage Jobs", "description": "Accept jobs that fit your schedule with a single tap. Update your status as you travel to the site and complete the work, keeping the customer informed." },
+      "step4": { "title": "4. Get Paid Directly", "description": "After completing the job, collect payment directly from the customer. All your earnings are yours to keep—we don't take a cut." }
+    }
+  },
+  "forPlumbers": {
+    "heroTitle": "More Jobs. On Your Terms.",
+    "heroSubtitle": "Join Plumbit to connect with more customers, manage your schedule, and grow your business—for free.",
+    "cta": "Start Earning Today",
+    "whyPartner": "Why Partner with Plumbit?",
+    "whySubtitle": "We're built to help you succeed.",
+    "benefits": {
+      "localJobs": { "title": "More Local Jobs", "description": "Get access to a steady stream of job requests from customers in your service area. Less time searching, more time working." },
+      "flexibleSchedule": { "title": "Flexible Schedule", "description": "You are in control. Set your own availability and only accept the jobs that fit your schedule and expertise." },
+      "keepEarnings": { "title": "Keep 100% of Your Earnings", "description": "We connect you with customers, but you get paid directly. No commissions, no platform fees. What you earn is what you keep." },
+      "simpleManagement": { "title": "Simple Job Management", "description": "Our easy-to-use app lets you view job details, accept requests, and update your status with a few taps." }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions below.",
+    "forCustomers": "For Customers",
+    "forPlumbers": "For Plumbers",
+    "customerQuestions": {
+      "q1": { "question": "How much does it cost to use Plumbit?", "answer": "Using the Plumbit platform to find and request a plumber is completely free for customers. You only pay the plumber for the services they provide." },
+      "q2": { "question": "How do I pay the plumber?", "answer": "Payment is handled directly between you and the plumber. You can pay them via cash, bank transfer, or any other method you both agree upon. Plumbit does not process any payments." },
+      "q3": { "question": "Are the plumbers certified?", "answer": "Yes, we verify the certifications and credentials of all plumbers before they can join our platform to ensure you're hiring a qualified professional." },
+      "q4": { "question": "What if I have an emergency?", "answer": "When you create a job request, you can mark it as an emergency. This prioritizes your request and sends it to plumbers who are available for immediate dispatch." }
+    },
+    "plumberQuestions": {
+      "q1": { "question": "Is there a fee to join Plumbit?", "answer": "No, it's completely free for plumbers to sign up, create a profile, and receive job leads. We do not charge any subscription fees or commissions." },
+      "q2": { "question": "How do I get paid?", "answer": "You collect payment directly from the customer upon job completion. You keep 100% of what you charge for your services." },
+      "q3": { "question": "Can I set my own service area and schedule?", "answer": "Absolutely. In your profile, you define your service radius and set your availability. You will only receive job requests that match your criteria." },
+      "q4": { "question": "How are jobs assigned?", "answer": "Job requests are sent to all available plumbers in the customer's area. The first plumber to accept the job gets it. This ensures a fast response for the customer and a fair system for our partners." }
+    }
+  },
+  "customerDashboard": {
+    "title": "My Jobs",
+    "description": "Track your active and past job requests.",
+    "newJob": "Request New Job",
+    "activeJobs": "Active Jobs",
+    "pastJobs": "Past Jobs",
+    "noJobs": "No jobs in this category.",
+    "noJobsYet": { "title": "No jobs yet", "description": "Get started by requesting your first job." }
+  },
+  "requestJob": {
+    "title": "Request a New Job",
+    "description": "Fill out the details below to find a plumber.",
+    "jobDetails": "Job Details",
+    "detailsDescription": "The more details you provide, the faster we can help.",
+    "address": "Address",
+    "addressPlaceholder": "e.g., Via Dante 10, 20121 Milano MI, Italy",
+    "issueDescription": "Description of Issue",
+    "issuePlaceholder": "e.g., My kitchen sink is completely blocked...",
+    "preferredTime": "Preferred Time",
+    "findPlumber": "Find a Plumber",
+    "submitting": "Submitting..."
+  },
+  "publicRequestForm": {
+    "title": "Get a Plumber Now",
+    "description": "Fill out the form to get a quick response. We are currently validating this service in Milan.",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "e.g., John Doe",
+    "contactLabel": "Email or Phone",
+    "contactPlaceholder": "e.g., john@example.com",
+    "addressLabel": "Address",
+    "addressPlaceholder": "e.g., 123 Main St, Milan, Italy",
+    "issueLabel": "Describe the Issue",
+    "issuePlaceholder": "e.g., My kitchen sink is blocked...",
+    "submitButton": "Request a Plumber Now",
+    "submittingButton": "Sending..."
+  },
+  "about": {
+    "heroTitle": "Building a Better Way to Find a Plumber",
+    "heroSubtitle": "Plumbit was born from a simple idea: finding a reliable plumber shouldn't be a stressful emergency. We're using technology to bring transparency, speed, and trust to the home services industry.",
+    "storyTitle": "Our Story",
+    "storyP1": "It started with a familiar homeowner's nightmare: a burst pipe on a weekend and a frantic search through outdated online directories. The process was inefficient, stressful, and lacked transparency. We knew there had to be a better way.",
+    "storyP2": "We envisioned a platform that could connect people with certified, available plumbers in minutes, just like ordering a taxi or a meal. Plumbit is the result of that vision—a simple, powerful tool designed to solve real-world problems for both homeowners and trade professionals.",
+    "missionTitle": "Our Mission",
+    "missionP1": "Our mission is to create the most trusted and efficient marketplace for home services. We're starting with plumbing because it's an essential service where speed and reliability are critical.",
+    "missionP2": "For our customers, we promise a fast, transparent, and safe way to find help. For our plumber partners, we offer a free, flexible platform to find more jobs and grow their business on their own terms. We don't take a commission—we're here to make the connection.",
+    "valuesTitle": "Our Core Values",
+    "valuesSubtitle": "These principles guide every decision we make as we build Plumbit.",
+    "value1Title": "Trust & Safety",
+    "value1Desc": "We verify every plumber on our platform to ensure they are certified, insured, and reviewed by the community. Your peace of mind is our top priority.",
+    "value2Title": "Simplicity & Transparency",
+    "value2Desc": "We believe finding a plumber should be easy. Our platform provides clear job requests, real-time tracking, and direct communication, removing the usual hassle.",
+    "value3Title": "Empowering Communities",
+    "value3Desc": "By connecting local homeowners with skilled local professionals, we help strengthen community ties and support small businesses."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "We're here to help. Reach out to us with any questions.",
+    "emailTitle": "Email",
+    "emailDesc": "For general inquiries and support.",
+    "phoneTitle": "Phone",
+    "phoneDesc": "Our support team is available during business hours.",
+    "hoursTitle": "Business Hours",
+    "hoursP1": "Monday - Friday: 9:00 AM - 6:00 PM",
+    "hoursP2": "Saturday - Sunday: Closed",
+    "formName": "Full Name",
+    "formNamePlaceholder": "Your Name",
+    "formEmail": "Email Address",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessage": "Message",
+    "formMessagePlaceholder": "How can we help you?",
+    "formSubmit": "Send Message"
+  },
+  "jobDetail": {
+    "title": "Job #{{jobId}}",
+    "requestedOn": "Requested on {{date}}",
+    "jobDetails": "Job Details",
+    "address": "Address",
+    "description": "Description",
+    "scheduledFor": "Scheduled For",
+    "timeline": "Job Timeline",
+    "plumberStatus": "Plumber Status",
+    "matching": "We are currently matching you with a certified plumber.",
+    "assignedPlumber": "Assigned Plumber",
+    "rating": "Rating",
+    "reviews": "reviews",
+    "leaveReview": "Leave a Review",
+    "yourReview": "Your Review",
+    "feedbackThanks": "Thank you for your feedback!",
+    "feedbackHelp": "Your feedback helps our community.",
+    "comment": "Comment",
+    "commentPlaceholder": "Tell us about your experience...",
+    "submitReview": "Submit Review",
+    "toast": {
+      "unauthorized": "You are not authorized to view this job.",
+      "loadFailed": "Failed to load job details.",
+      "reviewLoading": "Submitting your review...",
+      "reviewSuccess": "Thank you for your feedback!",
+      "reviewError": "Failed to submit review."
+    }
+  },
+  "plumberDashboard": {
+    "title": "Jobs Dashboard",
+    "description": "View available jobs and manage your accepted jobs.",
+    "availableJobs": "Available Jobs",
+    "myActiveJobs": "My Active Jobs",
+    "noJobs": "No jobs in this category.",
+    "viewDetails": "View Details",
+    "accept": "Accept",
+    "toast": {
+      "loadFailed": "Could not load jobs. Please try again later.",
+      "acceptLoading": "Accepting job...",
+      "acceptSuccess": "Job accepted successfully!",
+      "acceptError": "Failed to accept job. It may have been taken."
+    }
+  },
+  "plumberJobDetail": {
+    "scheduledFor": "Scheduled for {{date}}",
+    "jobDetails": "Job Details",
+    "address": "Address",
+    "description": "Description",
+    "customerDetails": "Customer Details",
+    "acceptJob": "Accept Job",
+    "updateTo": "Update to: {{status}}",
+    "confirmUpdateTitle": "Confirm Status Update",
+    "confirmUpdateDesc": "This will update the job status to \"{{status}}\" and notify the customer. Are you sure?",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "toast": {
+      "loadFailed": "Failed to load job details.",
+      "updateLoading": "Updating status...",
+      "updateSuccess": "Job status updated to {{status}}.",
+      "updateError": "Failed to update status.",
+      "acceptLoading": "Accepting job...",
+      "acceptSuccess": "Job accepted successfully!",
+      "acceptError": "Failed to accept job. It may have been taken."
+    }
+  },
+  "plumberEarnings": {
+    "title": "Simulated Earnings",
+    "description": "A report of your completed jobs and simulated payouts.",
+    "completedJobs": "Completed Jobs",
+    "paymentNote": "Payments are handled directly with the customer.",
+    "jobId": "Job ID",
+    "completedOn": "Completed On",
+    "payout": "Sim. Payout",
+    "noJobs": "No completed jobs yet.",
+    "totalEarnings": "Total Simulated Earnings",
+    "pocNote": "This is a simulation for PoC purposes.",
+    "toast": {
+      "loadFailed": "Could not load earnings data."
+    }
+  },
+  "plumberProfile": {
+    "title": "My Profile",
+    "description": "Manage your professional information.",
+    "availability": {
+      "label": "Available for Jobs",
+      "description": "Turn this on to receive new job requests."
+    },
+    "bio": {
+      "label": "Bio",
+      "placeholder": "Tell customers about your experience and skills."
+    },
+    "radius": {
+      "label": "Service Radius (km)"
+    },
+    "rate": {
+      "label": "Base Rate (€)"
+    },
+    "save": "Save Changes",
+    "saving": "Saving...",
+    "errors": {
+      "profileNotFound": "Could not find your profile.",
+      "loadFailed": "Failed to load profile data.",
+      "cannotUpdate": "Profile not loaded, cannot update."
+    },
+    "toast": {
+      "loading": "Updating profile...",
+      "success": "Profile updated successfully!",
+      "error": "Failed to update profile."
+    }
+  },
+  "adminDashboard": {
+    "title": "Admin Dashboard",
+    "description": "A high-level overview of platform activity.",
+    "totalCustomers": "Total Customers",
+    "totalPlumbers": "Total Plumbers",
+    "activeJobs": "Active Jobs",
+    "completedJobs": "Completed Jobs",
+    "moreTools": "More detailed reports and management tools are available in the navigation."
+  },
+  "footer": {
+    "tagline": "Your trusted plumber, on-demand.",
+    "company": "Company",
+    "about": "About",
+    "contact": "Contact",
+    "forUsers": "For Users",
+    "howItWorks": "How It Works",
+    "services": "Services",
+    "faq": "FAQ",
+    "forPlumbers": "For Plumbers",
+    "becomePartner": "Become a Partner",
+    "legal": "Legal",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy"
+  },
+  "homepage": {
+    "availabilityNote": "Currently available in Milan. Coming soon to other cities across Italy.",
+    "publicRequestForm": {
+      "title": "Get a Plumber Now",
+      "description": "Fill out the form to get a quick response. We are currently validating this service in Milan."
+    },
+    "valueProps": {
+      "prop1": {
+        "title": "Fast & Nearby",
+        "description": "Connect with available plumbers in your area within minutes for emergency or scheduled jobs."
+      },
+      "prop2": {
+        "title": "Transparent Job Requests",
+        "description": "Clearly describe your issue, upload photos, and get a clear understanding before the job starts."
+      },
+      "prop3": {
+        "title": "Trusted Plumbers",
+        "description": "All plumbers on our platform are certified professionals with verified reviews from real customers."
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "subtitle": "Get your plumbing issues solved in three simple steps.",
+      "step1": {
+        "title": "Describe Your Job",
+        "description": "Fill out a simple form with your address, a description of the plumbing issue, and add photos if needed. Choose between an immediate request or schedule for a later time."
+      },
+      "step2": {
+        "title": "A Plumber Accepts",
+        "description": "Your request is sent to nearby, available plumbers. You'll be notified as soon as a certified professional accepts your job and is on their way."
+      },
+      "step3": {
+        "title": "Pay Directly Offline",
+        "description": "Once the job is completed to your satisfaction, you pay the plumber directly. Test our service for free — no platform fees."
+      }
+    },
+    "testimonials": {
+      "title": "What Our Customers Say",
+      "subtitle": "Real stories from satisfied homeowners in Milan.",
+      "testimonial1": "I requested a plumber at 10 PM for an emergency leak and someone was at my door in 30 minutes. Incredible service!",
+      "testimonial2": "The app is so easy to use. I described the problem, a plumber accepted, and I could track his arrival. The plumber was professional and fixed the issue perfectly.",
+      "testimonial3": "Finally, a modern way to find a reliable plumber. Transparent, fast, and the direct payment is very convenient. Will use again!"
+    }
+  },
+  "admin": {
+    "users": {
+      "title": "Customer Management",
+      "description": "View and manage all customer accounts.",
+      "columns": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "role": "Role",
+        "joined": "Joined On"
+      },
+      "toast": {
+        "loadFailed": "Failed to load users."
+      }
+    },
+    "plumbers": {
+      "title": "Plumber Management",
+      "description": "Approve and manage plumber accounts.",
+      "columns": {
+        "name": "Name",
+        "email": "Email",
+        "rating": "Avg. Rating",
+        "status": "Status",
+        "approve": "Approve"
+      },
+      "status": {
+        "approved": "Approved",
+        "pending": "Pending"
+      },
+      "noProfile": "No Profile",
+      "toast": {
+        "loadFailed": "Failed to load plumbers.",
+        "noProfile": "Cannot update plumber without a profile.",
+        "updateFailed": "Failed to update plumber status."
+      }
+    },
+    "jobs": {
+      "title": "Job Monitoring",
+      "description": "View and manage all jobs on the platform.",
+      "columns": {
+        "jobId": "Job ID",
+        "status": "Status",
+        "customerId": "Customer ID",
+        "plumberId": "Plumber ID",
+        "scheduled": "Scheduled For",
+        "actions": "Actions"
+      },
+      "cancelButton": "Cancel",
+      "confirmCancel": "Are you sure you want to cancel this job? This action cannot be undone.",
+      "toast": {
+        "loadFailed": "Failed to load jobs.",
+        "cancelSuccess": "Job cancelled successfully.",
+        "cancelFailed": "Failed to cancel job."
+      }
+    },
+    "reviews": {
+      "title": "Review Moderation",
+      "description": "View and manage all customer reviews.",
+      "columns": {
+        "rating": "Rating",
+        "comment": "Comment",
+        "authorId": "Author ID",
+        "plumberId": "Plumber ID",
+        "date": "Date",
+        "actions": "Actions"
+      },
+      "deleteButton": "Delete",
+      "confirmDelete": "Are you sure you want to delete this review?",
+      "toast": {
+        "loadFailed": "Failed to load reviews.",
+        "deleteSuccess": "Review deleted successfully.",
+        "deleteFailed": "Failed to delete review."
+      }
+    },
+    "validation": {
+      "title": "Market Validation",
+      "description": "Analytics and leads from the public-facing request form.",
+      "pageViews": "Total Page Views",
+      "totalLeads": "Total Leads",
+      "columns": {
+        "name": "Name",
+        "contact": "Contact",
+        "address": "Address",
+        "description": "Description",
+        "submitted": "Submitted On"
+      },
+      "toast": {
+        "loadFailed": "Failed to load market validation data."
+      }
+    }
+  }
+}
