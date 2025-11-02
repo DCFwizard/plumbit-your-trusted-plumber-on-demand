@@ -2,7 +2,7 @@
 
 A marketplace connecting customers with certified plumbers for on-demand or scheduled jobs, with direct, offline payments.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/DCFwizard/plumbit-your-trusted-plumber-on-demand)
 
 ## Overview
 
@@ -93,7 +93,7 @@ This application is designed to be deployed to Cloudflare Pages for the frontend
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/DCFwizard/plumbit-your-trusted-plumber-on-demand)
 
 ## Contributing
 
